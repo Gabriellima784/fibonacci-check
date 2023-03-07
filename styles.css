@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#numero{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   border-radius: 2px;
+}
+
+button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
